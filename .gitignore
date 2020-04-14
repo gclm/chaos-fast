@@ -31,3 +31,4 @@ build/
 ### VS Code ###
 .vscode/
 workspace
+src/main/java/club/.DS_Store
